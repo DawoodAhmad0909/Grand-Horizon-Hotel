@@ -1,0 +1,4 @@
+guest_id,first_name,last_name,email,phone,address,city,country,id_type,id_number
+1003,Robert,Brown,NULL,+442071234567,"789 High Rd",London,UK,Passport,PUK987654
+1007,David,Anderson,NULL,+861012345678,"852 Nanjing Rd",Shanghai,China,Passport,PCN123789
+1010,Sophia,Martin,NULL,+390612345678,"963 Via Veneto",Rome,Italy,"National ID",IT123456

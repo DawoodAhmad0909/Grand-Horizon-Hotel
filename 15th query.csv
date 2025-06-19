@@ -1,0 +1,6 @@
+reservation_id,guest_id,room_id,check_in,check_out,adults,children,total_amount,status,payment_status,Total_Profit
+3005,1005,2009,2023-11-10,2023-11-15,4,0,2500.00,Confirmed,"Partially Paid",2550.00
+3004,1004,2007,2023-11-05,2023-11-10,2,0,1750.00,Checked-out,Paid,1900.00
+3008,1008,2015,2023-11-18,2023-11-22,2,2,1000.00,Confirmed,Paid,1040.00
+3003,1003,2005,2023-11-03,2023-11-06,2,2,750.00,Checked-out,Paid,975.00
+3002,1002,2003,2023-11-02,2023-11-07,2,1,900.00,Checked-out,Paid,950.00

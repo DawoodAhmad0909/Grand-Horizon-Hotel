@@ -1,0 +1,11 @@
+guest_id,first_name,last_name,email,phone,address,city,country,id_type,id_number
+1007,David,Anderson,NULL,+861012345678,"852 Nanjing Rd",Shanghai,China,Passport,PCN123789
+1003,Robert,Brown,NULL,+442071234567,"789 High Rd",London,UK,Passport,PUK987654
+1004,Emily,Davis,e.davis@email.com,+61391234567,"321 King St",Sydney,Australia,"National ID",AUS654321
+1002,Sarah,Johnson,s.johnson@email.com,+15559876543,"456 Oak Ave","Los Angeles",USA,"Driver License",DL87654321
+1010,Sophia,Martin,NULL,+390612345678,"963 Via Veneto",Rome,Italy,"National ID",IT123456
+1005,Michael,Miller,m.miller@email.com,+81312345678,"654 Ginza St",Tokyo,Japan,Passport,PJPN456789
+1006,Jessica,Taylor,j.taylor@email.com,+33123456789,"159 Champs-Élysées",Paris,France,"National ID",FR789123
+1008,Olivia,Thomas,o.thomas@email.com,+525512345678,"753 Reforma Ave","Mexico City",Mexico,"Driver License",DLMX456123
+1009,Daniel,White,d.white@email.com,+4915123456789,"426 Friedrichstr",Berlin,Germany,Passport,PDEU789456
+1001,James,Wilson,j.wilson@email.com,+15551234567,"123 Main St","New York",USA,Passport,P12345678

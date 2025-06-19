@@ -1,0 +1,13 @@
+room_id,room_number,room_type,floor,max_occupancy,price_per_night,has_balcony,is_smoking,bed_type,Total_Reservations
+2001,101,Standard,1,2,120.00,0,0,Double,1
+2003,201,Deluxe,2,3,180.00,1,0,Queen,1
+2004,202,Deluxe,2,3,180.00,1,0,Queen,1
+2005,301,Suite,3,4,250.00,1,0,King,1
+2006,302,Suite,3,4,250.00,1,0,King,0
+2007,401,"Executive Suite",4,2,350.00,1,0,King,1
+2008,402,"Executive Suite",4,2,350.00,1,0,King,0
+2009,501,"Presidential Suite",5,4,500.00,1,0,King,1
+2010,502,"Presidential Suite",5,4,500.00,1,0,King,0
+2011,103,Standard,1,2,120.00,0,0,Twin,1
+2012,104,Standard,1,2,120.00,0,1,Twin,0
+2014,204,Deluxe,2,3,180.00,1,0,Double,0

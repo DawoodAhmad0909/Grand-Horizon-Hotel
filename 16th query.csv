@@ -1,0 +1,4 @@
+service_id,service_name,description,price,is_charge_per_day,Bookings
+4001,"Breakfast Buffet","Continental breakfast buffet",15.00,0,2
+4002,"Airport Transfer","Round-trip airport shuttle",50.00,0,2
+4003,"Spa Access","Full-day spa access",75.00,1,1
