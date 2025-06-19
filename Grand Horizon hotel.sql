@@ -216,7 +216,7 @@ GROUP BY re.reservation_id
 ORDER BY Total_Profit DESC
 LIMIT 5;
 
-SELECT s.* ,COUNT(rs.id) AS Bookings
+SELECT s.* ,COUNT(rs.quantity) AS Bookings
 FROM Services s
 LEFT JOIN Reservation_services rs
 ON s.service_id=rs.service_id
