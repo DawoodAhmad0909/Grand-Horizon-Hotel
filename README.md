@@ -215,7 +215,7 @@ LIMIT 5;
 ```
 #### 16. Find which services are most frequently booked.
 ``` sql
-SELECT s.* ,COUNT(rs.id) AS Bookings
+SELECT s.* ,COUNT(rs.quantity) AS Bookings
 FROM Services s
 LEFT JOIN Reservation_services rs
 ON s.service_id=rs.service_id
